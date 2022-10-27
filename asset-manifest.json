@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tailwind-hover-tooltip/static/css/main.3ae15de5.css",
+    "main.js": "/tailwind-hover-tooltip/static/js/main.9e7646f8.js",
+    "static/media/09.jpg": "/tailwind-hover-tooltip/static/media/09.df61dcb62dca1b510e94.jpg",
+    "static/media/03.jpg": "/tailwind-hover-tooltip/static/media/03.9b2752406b3c7bb88e34.jpg",
+    "static/media/01.jpg": "/tailwind-hover-tooltip/static/media/01.f14851a60477a51b95b2.jpg",
+    "static/media/demo01.gif": "/tailwind-hover-tooltip/static/media/demo01.7d14b7bdbb96af29edb8.gif",
+    "static/media/06.jpg": "/tailwind-hover-tooltip/static/media/06.2b2e8f97e632cd69759b.jpg",
+    "static/media/05.jpg": "/tailwind-hover-tooltip/static/media/05.ada075528a553e80a5ad.jpg",
+    "static/media/08.jpg": "/tailwind-hover-tooltip/static/media/08.695e6576103e0f48e480.jpg",
+    "static/media/07.jpg": "/tailwind-hover-tooltip/static/media/07.cff57ff08ab171662754.jpg",
+    "static/media/02.jpg": "/tailwind-hover-tooltip/static/media/02.b04ab95ad27cde48b4c2.jpg",
+    "static/media/demo02.gif": "/tailwind-hover-tooltip/static/media/demo02.7aae9681c906ad6c89dd.gif",
+    "static/media/04.jpg": "/tailwind-hover-tooltip/static/media/04.fa273077d9093ef92708.jpg",
+    "index.html": "/tailwind-hover-tooltip/index.html",
+    "main.3ae15de5.css.map": "/tailwind-hover-tooltip/static/css/main.3ae15de5.css.map",
+    "main.9e7646f8.js.map": "/tailwind-hover-tooltip/static/js/main.9e7646f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae15de5.css",
+    "static/js/main.9e7646f8.js"
+  ]
+}
