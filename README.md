@@ -4,6 +4,6 @@
 
 <h4>Projeto criado para praticar a criação de pop-pups e tooltips com o uso do Tailwind CSS e Flowbite.</h4>
 
-<img aligne="center" src="src/demo01.gif" alt="Utilizando o Flowbite" />
+<img align="center" src="src/demo01.gif" alt="Utilizando o Flowbite" />
 
-<img aligne="center" src="src/demo02.gif" alt="Pop-up apenas com Tailwind" />
+<img align="center" src="src/demo02.gif" alt="Pop-up apenas com Tailwind" />
